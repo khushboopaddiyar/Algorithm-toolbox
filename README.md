@@ -1,5 +1,5 @@
 # Algorithm-toolbox
-This repository will contain my work from the [Master Algorithmic Programming Techniques Specialization](https://www.coursera.org/specializations/data-structures-algorithms) that was created by UC San Diego and delivered through Coursera. 
+This repository will contain my work from the [Master Algorithmic Programming Techniques Specialization](https://www.coursera.org/specializations/data-structures-algorithms) that was created by UC San Diego and delivered through Coursera.this will help you to strengthen your data structure
 
 ## About This Specialization
 
